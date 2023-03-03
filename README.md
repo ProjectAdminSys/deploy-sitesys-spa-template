@@ -57,13 +57,13 @@ yarn
 
 ```sh
 # Mode Development
-yarn docs:dev
+yarn dev
 
 # Mode Production
-yarn docs:build
+yarn build
 
 # Preview Build
-yarn docs:preview
+yarn preview
 ```
 
 Will open on localhost `http://localhost:5173` and preview build `http://localhost:4173` for default.
